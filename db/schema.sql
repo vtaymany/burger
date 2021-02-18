@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS burgers_db;
+DROP DATABASE IF EXISTS heroku_2e1a4b9d7fea309;
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE heroku_2e1a4b9d7fea309;
 
-USE burgers_db;
+USE heroku_2e1a4b9d7fea309;
 
 CREATE TABLE burgers (
   id INT NOT NULL AUTO_INCREMENT,

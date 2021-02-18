@@ -6,7 +6,7 @@ var connection = mysql.createConnection({
   port: 3306,
   user: 'root',
   password: 'welcome123',
-  database: 'burgers_db',
+  database: 'heroku_2e1a4b9d7fea309',
 })
 
 // Make connection.
