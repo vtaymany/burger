@@ -20,9 +20,13 @@ npm install
 npm start
 ```
 
-## ..or view the hosted application live [here](https://agile-crag-02741.herokuapp.com/)!
+## ..or view the hosted application live:
 
--See video for application functionality
+- [here](https://agile-crag-02741.herokuapp.com/)!
+
+## Functionality
+
+- See video for application functionality
 
 ## Roadmap
 
