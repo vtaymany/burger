@@ -6,7 +6,7 @@
 
 ### Installation
 
-- Instructions to run the application locally:
+## Instructions to run the application locally:
 
 - Run..
 
@@ -20,7 +20,7 @@ npm install
 npm start
 ```
 
-- ..or view the host application [here](https://agile-crag-02741.herokuapp.com/)!
+## ..or view the hosted application live [here](https://agile-crag-02741.herokuapp.com/)!
 
 -See video for application functionality
 
