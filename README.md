@@ -26,11 +26,15 @@ npm start
 
 ## Functionality
 
-- See video for application functionality
+- There are 3 x burgers out of the box
+- Users may add burgers they have devoured or have not yet devoured
+- Users may choose to devour undevoured burgers, or yack out devoured burgers
 
 ## Roadmap
 
 - Update the UI with a modern framework
+- Add the ability to delete burgers
+- Add the ability for users to log in and view their own data
 
 **Screen capture demonstrating application functionality**
 
