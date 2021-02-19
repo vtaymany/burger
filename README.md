@@ -2,7 +2,7 @@
 
 ## Main project goal
 
-- The main goal of this app is to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). The MVC design pattern was strictly followed. Node and MySQL were used to query and route data in the app, while Handlebars were used to dynamically generate HTML.
+- The main goal of this app is to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. The MVC design pattern was strictly followed. Node and MySQL were used to query and route data in the app, while Handlebars were used to dynamically generate HTML.
 
 ### Installation
 
