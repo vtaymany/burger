@@ -34,7 +34,7 @@ npm start
 
 **Screen capture demonstrating application functionality**
 
-![Application Functionality](.public/assets/screen-captures/MVC-With-Burgers.gif 'Taker of notes screen capture')
+![Application Functionality](.public/assets/screen-captures/MVC-With-Burgers.gif)
 
 ## Credits
 
