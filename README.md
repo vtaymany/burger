@@ -22,7 +22,7 @@ npm start
 
 ## ..or view the hosted application live:
 
-- [here](https://agile-crag-02741.herokuapp.com/)!
+- [Here!](https://agile-crag-02741.herokuapp.com/)
 
 ## Functionality
 
